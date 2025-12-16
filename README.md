@@ -10,6 +10,7 @@ USE CASE 4: Alphabet description
 USE CASE 0: EXIT
 
 
+
 Core - constants, business logic
 
 Model - data model
