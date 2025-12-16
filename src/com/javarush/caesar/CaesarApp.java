@@ -144,7 +144,7 @@ public class CaesarApp {
 
         System.out.println("\n Превью:");
         System.out.println("Вы ввели: " + getPreview(result.getInput()));
-        System.out.println("Закодированный текст: " + getPreview(result.getOutput()));
+        System.out.println("Результат: " + getPreview(result.getOutput()));
     }
     public String getPreview(String text) {
         if (text.length() <= 100) {
